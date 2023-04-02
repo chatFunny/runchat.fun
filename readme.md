@@ -8,7 +8,7 @@
 
 ### 3、如何提升国内用户访问体验；
 
-### 4、商业落地等变现相关经验探讨。
+### 4、商业落地等相关经验探讨。
 
-### 等等，总之，面向ChatGPT api生态的参与者、体验者、开发者
+### 等等，总之，本群面向ChatGPT api生态的参与者、体验者、开发者，共同探讨前沿人工智能技术
 <img src="https://github.com/chatFunny/runchat.fun/blob/main/wechat_group.jpg" width="745" alt="pipline"/> 
