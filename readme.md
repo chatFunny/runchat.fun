@@ -10,5 +10,5 @@
 
 ### 4、变现相关经验探讨。
 
-等等，总之，面向ChatGPT api生态的参与者、体验者、开发者，商业落地等
+## 等等，总之，面向ChatGPT api生态的参与者、体验者、开发者，商业落地等
 <img src="https://github.com/chatFunny/runchat.fun/blob/main/wechat_group.jpg" width="745" alt="pipline"/> 
